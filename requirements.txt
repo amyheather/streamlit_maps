@@ -1,0 +1,6 @@
+streamlit
+plotly
+geopandas
+folium
+streamlit_folium
+-e ../kailo_beewell_dashboard_package
